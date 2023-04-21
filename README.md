@@ -1,4 +1,4 @@
-# d-rt-slem
+# dortıslem
 package day01;
 
 import java.util.Scanner;
